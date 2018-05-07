@@ -6,3 +6,5 @@ This repository contains my assignments
 [Asssignment 3](https://github.com/AlphaGabras/Assignments/blob/master/assignment3%20(1).ipynb)
 
 [Assignment 4](https://github.com/AlphaGabras/Assignments/blob/master/assignment4.ipynb)
+
+[Graded Assignment 1](https://github.com/AlphaGabras/Assignments/blob/master/Graded_assignment1.ipynb)
