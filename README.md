@@ -10,3 +10,7 @@ This repository contains my assignments
 [Graded Assignment 1](https://github.com/AlphaGabras/Assignments/blob/master/Graded_assignment1.ipynb)
 
 [Graded Assignment 2](https://github.com/AlphaGabras/Assignments/blob/master/Graded_assignment_2%20(2).ipynb)
+
+[Final Assignment R](https://github.com/AlphaGabras/Assignments/blob/master/Exam_student%20(1).ipynb)
+
+[Final Assignment Python](https://github.com/AlphaGabras/Assignments/blob/master/exam_june_7_2018%20(1).ipynb)
